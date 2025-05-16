@@ -19,8 +19,7 @@ This is a Laravel-based blog application featuring role-based access control usi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/pavithkulathunga/blog-posts.git
     ```
 
 2. Install dependencies:
